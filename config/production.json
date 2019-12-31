@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Alex:Alex1985@contactkeeper-y4gmi.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "SDFsdfsf43refsf"
+  "mongoURI": "mongodb+srv://Alex:Alex1985@contactkeeper-y4gmi.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "SDFsdfsf43refsf"
 }
